@@ -19,6 +19,7 @@
 - 🧠 **Absolute imports** using `@` alias
 - 🧰 **VS Code ready**: recommended settings and extensions
 - 📦 **Bundle analysis** via [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
+- 🌗 Dark Mode support using Tailwind CSS + ShadCN
 - ⚛️ Sample client side data fetching using **React Query** in client components. - [React Query](https://tanstack.com/query/latest)
 - 🖥️ Sample server side data fetching and caching in server components. (**TODO**)
 - 🗃️ Implement *8Incremental Static Regeneration (ISR)** with caching strategies via revalidate (**TODO**)
