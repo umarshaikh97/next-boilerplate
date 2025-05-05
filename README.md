@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Boilerplate and Starter for Next.js with App Router, Tailwind CSS, and TypeScript 🚀
 
-## Getting Started
+## ✨ Features
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🧭 **Next.js** with App Router support — [Next.js](https://nextjs.org)
+- 🧑‍💻 **Type-safe development** with [TypeScript](https://www.typescriptlang.org)
+- 🎨 **Utility-first styling** using [Tailwind CSS](https://tailwindcss.com)
+- 🧩 **Reusable components** with [ShadCN UI](https://ui.shadcn.dev)
+- 🔍 **Strict Mode** enabled for **React 19** and **TypeScript**
+- 🔐 **Authentication** and **protected routes** using HTTP-only cookies for secure session management (**TODO**)
+- 🌍 **Internationalization (i18n)** with [next-intl](https://next-intl-docs.vercel.app/)
+- 📝 **Form handling** with **React Hook Form** (**TODO**)
+- ✅ **Schema validation** using [Zod](https://zod.dev) (**TODO**)
+- 🧹 **Linting** with [ESLint](https://eslint.org) and **lint-staged**
+- 🎯 **Code formatting** with [Prettier](https://prettier.io)
+- 🐶 **Git hooks** with **Husky**
+- 🧾 **Commit standards** using **Commitlint** + **Commitizen**
+- 🧪 **Unit & E2E Testing** with **Vitest**, **React Testing Library** and [Playwright](https://playwright.dev) (**TODO**)
+- 🧠 **Absolute imports** using `@` alias
+- 🧰 **VS Code ready**: recommended settings and extensions
+- 📦 **Bundle analysis** via [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
+- ⚛️ Sample client side data fetching using **React Query** in client components. - [React Query](https://tanstack.com/query/latest)
+- 🖥️ Sample server side data fetching and caching in server components. (**TODO**)
+- 🗃️ Implement *8Incremental Static Regeneration (ISR)** with caching strategies via revalidate (**TODO**)
+- ⏳ **React Suspense** for streaming UI and improved loading states with server components (**TODO**)
+- 🛠 **CI automation** on pull requests via **GitHub Actions**
+- 🐳 **Dockerized setup** for consistent local development and production deployment 
